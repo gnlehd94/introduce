@@ -1,0 +1,32 @@
+.img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.profile {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+  background-color: darkgray;
+  width: 70%;
+  height: 70%;
+  margin: 40px auto;
+  border: 5px solid black;
+}
+
+ul li {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.top {
+  text-align: center;
+}
+
+.text {
+  padding-top: 40px;
+  padding-left: 20px;
+}
